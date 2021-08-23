@@ -5,7 +5,7 @@
 # @Author  : Yi
 # @FileName: mv_test.py
 
-
+# TODO: 移动测试集
 
 import os
 import shutil
